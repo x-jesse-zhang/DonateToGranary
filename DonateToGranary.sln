@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DonateToGranary", "DonateToGranary.csproj", "{D596E327-D01B-4E62-A0B8-4E79A47C494F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D596E327-D01B-4E62-A0B8-4E79A47C494F}.Debug|x64.ActiveCfg = Debug|x64
+		{D596E327-D01B-4E62-A0B8-4E79A47C494F}.Debug|x64.Build.0 = Debug|x64
+		{D596E327-D01B-4E62-A0B8-4E79A47C494F}.Release|x64.ActiveCfg = Release|x64
+		{D596E327-D01B-4E62-A0B8-4E79A47C494F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7870C3AF-5DF4-43CC-A014-95DEF08CD2E6}
+	EndGlobalSection
+EndGlobal
